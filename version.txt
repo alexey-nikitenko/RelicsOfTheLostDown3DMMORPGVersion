@@ -1,2 +1,2 @@
-LauncherVersion=1.0.0
-GameVersion=1.0.0
+LauncherVersion=1.0.1
+GameVersion=1.0.1
